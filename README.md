@@ -37,19 +37,14 @@
 [北里大学周辺ランチマップ](/北里大学周辺ランチマップ.pdf)
 
 ## 第６回ケモインフォマティクス入門講座(ケモメトリックス講習会-入門編)について
-### 1. PCの権限などが原因でDockerがインストールできない場合
-こちらが用意させていただいた環境と同等の環境をご用意してもらえたら問題はありません。<br><br>
+### 1. PCの権限などが理由でDockerをインストールできない場合
+お手数ですが、事前にこちらが用意した[Docker環境](https://hub.docker.com/r/chemowakate/tutorial-6th/)と同等の環境のご準備をお願いします  
 
-第６回の場合
+第６回の場合以下の内容を満たしていることが必要です
 
-- Jupyter Notebookがインストールされている
-- 配布しているデータセットを持っている
-
-こちらの２点ですね。
-
-Jupyter NotebookはAnaconda3などでインストールし、<br>
-
-データセットをダウンロードするために[README.md](https://github.com/chemo-wakate/tutorial-6th/blob/master/README.md#リポジトリのクローン)に記載されている<br>
-リポジトリのクローンの項目だけ実行して下さい。<br>
-リポジトリのクローンのためのgitのインストールも無理な場合は<br>
-リポジトリのZIPファイルのダウンロードを実行するとよいと思います。
+- `Python3` 、`numpy` 、`Jupyter Notebook` のインストール
+    - [Anaconda](https://www.anaconda.com/download/)を使用すると `Jupyter notebook` や `numpy` を使用することが可能です
+- [chemo-wakate/tutorial-6th](https://github.com/chemo-wakate/tutorial-6th)のクローン
+    - 中に講義資料のnotebookがあるため **必須** です
+    - `git clone https://github.com/chemo-wakate/tutorial-6th.git`
+    - もしくは、https://github.com/chemo-wakate/tutorial-6th/archive/master.zip をダウンロードしておいてください
