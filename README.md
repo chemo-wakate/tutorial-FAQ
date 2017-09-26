@@ -49,6 +49,7 @@
 
 Jupyter NotebookはAnaconda3などでインストールし、<br>
 
-データセットをダウンロードするために[READEME.md](https://github.com/chemo-wakate/tutorial-6th/blob/master/README.md#リポジトリのクローン)に記載されている<br>
+データセットをダウンロードするために[README.md](https://github.com/chemo-wakate/tutorial-6th/blob/master/README.md#リポジトリのクローン)に記載されている<br>
 リポジトリのクローンの項目だけ実行して下さい。<br>
-リポジトリのクローンのためのgitのインストールも無理な場合はリポジトリのZIPファイルのダウンロードを実行するとよいと思います。
+リポジトリのクローンのためのgitのインストールも無理な場合は<br>
+リポジトリのZIPファイルのダウンロードを実行するとよいと思います。
