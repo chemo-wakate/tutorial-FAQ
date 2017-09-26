@@ -39,9 +39,15 @@
 ## 第６回ケモインフォマティクス入門講座(ケモメトリックス講習会-入門編)について
 ### 1. PCの権限などが原因でDockerがインストールできない場合
 こちらが用意させていただいた環境と同等の環境をご用意してもらえたら問題はありません。<br><br>
-第６回の場合Jupyter Notebookというソフトウェアが用意できていれば入門講座の受講には差し支えないと思います。<br>
+第６回の場合
 
-Anaconda3などでJupyter Notebookをインストールし、<br>
-[READEME.md](https://github.com/chemo-wakate/tutorial-6th/blob/master/README.md#リポジトリのクローン)に記載されているリポジトリのクローンの項目だけ実行して下さい。<br>
+第６回の場合
+- Jupyter Notebookがインストールされている
+- 配布しているデータセットを持っている
+こちらの２点ですね。
 
+Jupyter NotebookはAnaconda3などでインストールし、<br>
+
+データセットをダウンロードするために[READEME.md](https://github.com/chemo-wakate/tutorial-6th/blob/master/README.md#リポジトリのクローン)に記載されている<br>
+リポジトリのクローンの項目だけ実行して下さい。<br>
 リポジトリのクローンのためのgitのインストールも無理な場合はリポジトリのZIPファイルのダウンロードを実行するとよいと思います。
